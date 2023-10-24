@@ -1,0 +1,17 @@
+pygame must be installed
+
+method1(didn't try) :
+open da project file in pycharm
+then run and play
+
+method2:
+pygame must me installed (https://www.youtube.com/watch?v=Iy8gktYqzPE) [from 47 second]
+open the game folder>right click anywhere> open terminal
+in terminal type: 'python main.py' (without inverted) and enjoy
+
+How to pleyh:
+arrow to move
+space to shoot
+kill all da enemy
+
+run korite na parile amar loge contact koriba :)
